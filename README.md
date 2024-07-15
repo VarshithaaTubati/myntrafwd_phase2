@@ -17,7 +17,7 @@ The Myntra FWD Prototype aims to:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/VarshithaaTubati/myntrafwd_phase2.git
    cd myntra-fwd-prototypemyntra-fwd-prototype/
    npm install
 npm start
